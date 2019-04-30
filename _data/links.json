@@ -1,5 +1,10 @@
 [
   {
+    "title": "Tmaize的博客",
+    "desc": "TMaize Blog",
+    "url": "http://blog.tmaize.net"
+  },
+  {
     "title": "文科中的技术宅",
     "desc": "Android开发者,软件破解,美化,爱好者&文科中的技术宅",
     "url": "https://www.townwang.com/"
@@ -23,10 +28,5 @@
     "title": "魏文成博客",
     "desc": "记录与分享",
     "url": "https://www.wwc.ren"
-  },
-  {
-    "title": "06m",
-    "desc": "06m",
-    "url": "https://www.06m.me"
   }
 ]
