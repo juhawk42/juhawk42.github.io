@@ -15,15 +15,15 @@ baseUrl: ''
 
 # 菜单
 menu:
-  - title: Home
+  - title: HOME
     url: /
-  - title: Categories
-    url: /pages/categories.html
-  - title: Search
+  - title: ARCHIVE
+    url: /pages/archive.html
+  - title: SEARCH
     url: /pages/search.html
-  - title: Links
+  - title: LINKS
     url: /pages/links.html
-  - title: About
+  - title: ABOUT
     url: /pages/about.html
 
 # 文章url前缀，固定格式，不要动
