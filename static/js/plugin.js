@@ -63,24 +63,27 @@ blog.addLoadEvent(function() {
   })
 })
 
-// 文字冒泡-社会主义核心价值观
+// 文字冒泡-儒家的君子
 blog.addLoadEvent(function() {
   if (document.body.offsetWidth <= 560) {
     return false
   }
   var texts = [
-    '富强',
-    '民主',
-    '文明',
-    '和谐',
-    '自由',
-    '平等',
-    '公正',
-    '法治',
-    '爱国',
-    '敬业',
-    '诚信',
-    '友善'
+    '温',
+    '良',
+    '恭',
+    '俭',
+    '让',
+    '仁',
+    '义',
+    '礼',
+    '智',
+    '信',
+    '忠',
+    '孝',
+    '廉',
+    '耻',
+    '勇'
   ]
   var temp = '<span style="top:{top}px;'
   temp += 'left:{left}px;'
