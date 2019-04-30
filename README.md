@@ -6,9 +6,9 @@
 
 下面有具体的样式截图，或者你可以到Ta的博客查看
 
-[TMaize的 Blog 预览](http://blog.tmaize.net/) 
+[TMaize的Blog预览](http://blog.tmaize.net/) 
 
-[TMaize的 github 地址](https://github.com/TMaize/tmaize-blog) 
+[TMaize的Github地址](https://github.com/TMaize/tmaize-blog) 
 
 
 # 移动端截图
