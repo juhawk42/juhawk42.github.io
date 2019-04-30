@@ -11,7 +11,10 @@ title: About Me
 **Julian** ['dʒuljən]，便是源于凯撒大帝（[Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)）。
 
 
-> To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life.   
+> To see the world, things dangerous to come to,    
+> to see behind walls, draw closer,    
+> to find each other, and to feel.      
+> That is the purpose of life.    
 -- *The Secret Life of Walter Mitty*
 
 **《白日梦想家》**（[The Secret Life of Walter Mitty](https://movie.douban.com/subject/2133323/)）是伪装精美的鸡汤。
@@ -21,7 +24,7 @@ title: About Me
 
 
 ---
-# Contact Me  
+### Contact Me  
 
 - Email : juhawk42@gmail.com
 
