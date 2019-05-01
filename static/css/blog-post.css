@@ -16,14 +16,12 @@
   margin: 14px 0;
   word-break: break-all;
 }
-.post h1,
 .post h2 {
   font-weight: normal;
   font-size: 17px;
   position: relative;
   margin: 14px 0;
 }
-.post h1::before,
 .post h2::before {
   content: '#';
   position: absolute;
