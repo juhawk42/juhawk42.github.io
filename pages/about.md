@@ -21,7 +21,8 @@ title: About Me
 
 
 ---
-**引用的两段话都在回答同一个问题，我想试着给出自己的答案。**  
+**引用的两段话都在回答同一个问题，我想试着给出自己的答案。** 
+**这就是本博客的精神所在。** 
 
 > WOW! That's what I'm talking about! Men!  
 -- *ZiRu Wang*  
