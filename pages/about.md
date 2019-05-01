@@ -1,7 +1,7 @@
 ---
 layout: mypost
 isPage: true
-title: About Me。
+title: About Me
 ---
 
 > Veni, Vedi, Vici.  *by Julius Caesar*
