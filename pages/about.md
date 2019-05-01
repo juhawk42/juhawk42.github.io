@@ -4,7 +4,6 @@ isPage: true
 title: About Me
 ---
 
-***
 
 > Veni, Vedi, Vici.  
 -- *Julius Caesar*
@@ -21,8 +20,8 @@ title: About Me
 
 > 引用的两段话都是在阐释同一问题，这也是我的博客目的之一。
 
-
-### Contact Me
+---
+## Contact Me
 
 - Email : juhawk42@gmail.com
 
