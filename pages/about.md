@@ -20,7 +20,7 @@ title: About Me
 
 ---
 
-#### 引用的两段话都在回答同一个问题，我也想试着给出自己的答案。
+### 引用的两段话都在回答同一个问题，我也想试着给出自己的答案。
 
 ### 这就是本博客的精神所在。
 
@@ -29,7 +29,7 @@ title: About Me
 
 ---
 
-### Contact Me  
+## Contact Me  
 
 - Email : juhawk42@gmail.com
 
