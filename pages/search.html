@@ -1,15 +1,15 @@
 ---
 layout: page
 isPage: true
-title: 搜索
+title: I'm looking for... 
 css: [blog.css]
 js: [blog.js,search.js,plugin.js]
 ---
 <div class="container page-search animation-fade-up">
 	<h1 class="page-title" id="{{ page.title }}">{{ page.title }}</h1>
-	<input id="search-input" type="text" placeholder="小技巧：空格分隔多个关键字^_^"></input>
+	<input id="search-input" type="text" placeholder="Use Blanks to Separat Keywords ^_^"></input>
 	<div class="list-group">
-		<h2 id="搜索结果">搜索结果</h2>
+		<h2 id="Result">Result:</h2>
 		<ul>
 			{% for post in site.posts  %}
 			<li class="search-item" style="display:none;">
