@@ -3,7 +3,7 @@ encoding: utf-8
 # SEO相关信息
 title: Julian Hawk
 description: Julian Hawk's Blog
-keywords: Blog,Java,Html,JavaScript
+keywords: Blog
 author: Julian Hawk
 footerText: 'Copyright © 2019'
 
@@ -21,8 +21,6 @@ menu:
     url: /pages/archive.html
   - title: SEARCH
     url: /pages/search.html
-  - title: LINKS
-    url: /pages/links.html
   - title: ABOUT
     url: /pages/about.html
 
