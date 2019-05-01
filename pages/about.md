@@ -11,9 +11,9 @@ title: About Me
 **Julian** ['dʒuljən]，便是源于凯撒大帝（[Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)）。
 
 
-> To see the world, things dangerous to come to.    
-> To see behind walls, to draw closer.    
-> To find each other, and to feel.      
+> To see the world, things dangerous to come to,    
+> to see behind walls, to draw closer,    
+> to find each other, and to feel.      
 > That is the purpose of LIFE.    
 -- *The Secret Life of Walter Mitty*
 
@@ -21,7 +21,8 @@ title: About Me
 
 
 ---
-**引用的两段话都在回答同一个问题，我想试着给出自己的答案。** 
+**引用的两段话都在回答同一个问题，我也想试着给出自己的答案。**  
+
 **这就是本博客的精神所在。** 
 
 > WOW! That's what I'm talking about! Men!  
