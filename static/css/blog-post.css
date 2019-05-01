@@ -168,7 +168,7 @@
   }
   .post h1::before,
   .post h2::before {
-    content: '#';
+    content: ' ';
     position: unset;
     padding-right: 5px;
     font-weight: bold;
