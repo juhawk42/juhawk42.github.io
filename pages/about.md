@@ -17,12 +17,13 @@ title: About Me
 > That is the purpose of LIFE.    
 -- *The Secret Life of Walter Mitty*
 
-**《白日梦想家》**（[The Secret Life of Walter Mitty](https://movie.douban.com/subject/2133323/)）是我喜欢的一部鸡汤电影。
+**《白日梦想家》**（[The Secret Life of Walter Mitty](https://www.imdb.com/title/tt0359950/?ref_=nv_sr_1?ref_=nv_sr_1)）是我喜欢的一部鸡汤电影。
 
 
 ---
-**引用的两段话都为阐释同一问题，这也是本博客目的所在。**  
-
+> WOW! That's what I'm talking about! Men! 
+-- *ZiRu Wang*
+**引用的两段话都在回答同一个问题，我想试着给出自己的答案。**
 
 ---
 ### Contact Me  
