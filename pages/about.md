@@ -4,7 +4,7 @@ isPage: true
 title: About Me
 ---
 
-> Veni, Vedi, Vici.  *by Julius Caesar*
+> Veni, Vedi, Vici. *by Julius Caesar*
 
 **Julian** ['dʒuljən]，便是源于凯撒大帝（[Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)）。
 
