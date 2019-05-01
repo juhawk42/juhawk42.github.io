@@ -24,7 +24,7 @@ title: About Me
 
 ### 这就是本博客的精神所在。
 
-> WOW! That's what I'm talking about! Men!  
+> WOW！ Awesome！ That's what I'm talking about！ Men！  
 -- *ZiRu Wang*  
 
 ---
