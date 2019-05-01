@@ -6,10 +6,9 @@ title: About Me
 
 
 > Veni, Vedi, Vici.  
--- *Julius Caesar*
+-- *Julius Caesar*   
 
-
-**Julian** ['dʒuljən]，便是源于凯撒大帝（[Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)）。
+**Julian** ['dʒuljən]，便是源于凯撒大帝（[Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)）。    
 
 
 > To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life.   
