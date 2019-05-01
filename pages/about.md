@@ -21,10 +21,10 @@ title: About Me
 
 
 ---
-> WOW! That's what I'm talking about! Men! 
--- *ZiRu Wang*    
-
 **引用的两段话都在回答同一个问题，我想试着给出自己的答案。**  
+
+> WOW! That's what I'm talking about! Men!  
+-- *ZiRu Wang*  
 
 
 ---
