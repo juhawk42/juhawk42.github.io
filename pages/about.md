@@ -8,7 +8,7 @@ title: About Me
 > Veni, Vedi, Vici.  
 -- *Julius Caesar*  
 
-**Julian** ['dʒuljən]，便是源于凯撒大帝（[Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)）。
+**Julian** ['dʒuljən]，源于凯撒大帝（[Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)）。
 
 > To see the world, things dangerous to come to,  
 > to see behind walls, to draw closer,  
